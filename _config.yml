@@ -2,7 +2,7 @@ markdown: redcarpet
 permalink: /:title
 
 url: //banglab.com
-baseurl: /articles/
+baseurl: /articles
 
 redcarpet:
   extensions: [strikethrough, tables]

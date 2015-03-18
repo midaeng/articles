@@ -16,11 +16,8 @@ title: "하루 안에 원서 한 권 읽기"
   
 
 1. 먼저 읽던 챕터에 있던 큰 제목들을 큰 포스트잇 하나에 각각 적으래요. 적었어요.  
-
 2. 제목을 적은 포스트잇을 나열한 후에 각각에 어떤 내용이 나올지 먼저 예상을 하면서 아래에 써봅니다.  
-
 3. 그리곤 책을 다시 펼쳐서 내용을 훑어봐요. 내가 생각했던거랑 같은지, 다르다면 포스트잇에 더 추가하기도 하고요.  
-
 4. 다 하고나서 포스트잇을 배치해봅니다. tree 구조가 되겠죠.   
   
   
@@ -28,7 +25,7 @@ title: "하루 안에 원서 한 권 읽기"
 
 아래 사진을 페이스북에 올렸더니 김창준님께서 비슷한데 검증된 방법으로 [SQ3R](http://www.ucc.vt.edu/academic_support_students/study_skills_information/sq3r_reading-study_system/index.html) 있다고 알려주시더라구요.   
 
-![book on oneday](/images/blog/read_book.jpg)
+![book](/images/blog/read_book.jpg)
 
 
 역시 공부는 peer로 하는게 최고인 듯.  

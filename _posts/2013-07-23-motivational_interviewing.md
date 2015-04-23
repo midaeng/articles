@@ -51,7 +51,7 @@ Change talk에서는 [DARN-C](http://motivationalinterview.org/?reqp=1&reqr=pTW5
 자세히 보면 DARN 옆에 하이픈 ( - )이 있고 C가 떨어져 있는데, 그 이유는 DARN 보다 C가 더 높은 수준의 변화를 이끌어내기 때문입니다.  
 사실은 C 다음에 AT가 더 있어요. 옆에 예시에 적어둔 것과 같이 AT 단계는 이미 변화가 많이 진행된 상태입니다.  
 
-![DARN-CAT](/images/blog/mi-4.png) 
+![DARN-CAT](/images/blog/mi-4.png)  
 
 상담을 진행할 때 내담자로 하여금 질문을 더 이끌어내는 방법은 뭐가 있을까요?   
 

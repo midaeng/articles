@@ -59,4 +59,4 @@ Motion Design을 하는데 fidelity(충실도)에 따라 손 그림부터 실제
 
 그리고 tool은 내가 가진 아이디어를 다른 사람에게 "잘 설명하기 위한" 도구로 사용되어 communication을 더 활성화하기 위한 도구로 사용해야 합니다.  
 하지만 많은 경우, tool 자체가 메인이 되기 때문에 좋은 제품으로 이어지는게 어려운 게 아닐까요?   
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/Design_perfect_tool..png"/>  
+<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/Design_perfect_tool.png"/>  

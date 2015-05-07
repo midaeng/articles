@@ -138,21 +138,21 @@ Facilitation은 **Opening - Idea gathering - Idea 체계화 - Decision making - 
 
 **자유연상법** : 주제에 대해 생각나는대로 자유롭게 발상하며 아이디어를 생각해내는 방법   
 
-1. Brainstorming  
-  * 참석자들의 모든 발언을 빠르게 기록하기  
-  *  아이디어가 막힐 땐 다양한 기법으로 새로운 접근 유도 (Round robin - Rolling paper - Stop & Go - Random word)  
-  *   Ground rule : 질보다 양, 비방금지, 편승가능(아이디어 개선/결합), 자유분방(엉뚱한 아이디어 우대)   
+* Brainstorming  
+  - 참석자들의 모든 발언을 빠르게 기록하기  
+  - 아이디어가 막힐 땐 다양한 기법으로 새로운 접근 유도 (Round robin - Rolling paper - Stop & Go - Random word)  
+  - Ground rule : 질보다 양, 비방금지, 편승가능(아이디어 개선/결합), 자유분방(엉뚱한 아이디어 우대)   
 
-2. Brain writing
-  * Brainstorming과 비슷하지만, 말로 하는 것이 아닌 글로 적는 방법  
-  * 침묵의 집단 발상법으로 빅마우스로부터 벗어날 수 있음  
-  * 창의적인/효과적인/즉시 실행 가능한 아이디어 중 무엇을 고를지를 시작 전에 명확히 해줘야 함  
+* Brain writing
+  - Brainstorming과 비슷하지만, 말로 하는 것이 아닌 글로 적는 방법  
+  - 침묵의 집단 발상법으로 빅마우스로부터 벗어날 수 있음  
+  - 창의적인/효과적인/즉시 실행 가능한 아이디어 중 무엇을 고를지를 시작 전에 명확히 해줘야 함  
 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_09.png"/>  
 
-3. Wandering Flipchart /Rotating Flipchart
-  * 참석자들이 주제가 적힌 Post를 돌아다니며 아이디어를 토론하거나 적도록 하는 방법  
-  * 나온 아이디어들은 Dot voting을 수행하여 Idea Grouping을 하고, 구체화를 진행함  
+* Wandering Flipchart /Rotating Flipchart
+  - 참석자들이 주제가 적힌 Post를 돌아다니며 아이디어를 토론하거나 적도록 하는 방법  
+  - 나온 아이디어들은 Dot voting을 수행하여 Idea Grouping을 하고, 구체화를 진행함  
 
 4. World cafe
 
@@ -161,26 +161,27 @@ Facilitation은 **Opening - Idea gathering - Idea 체계화 - Decision making - 
 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_10.png"/>  
 
-1. SCAMPER : 아이디어를 자극하는 질문의 목록으로 체크리스트법의 대표적인 기법  
-  * **S**ubstitute (대체)   
-  * **C**ombine (조합)   
-  * **A**dapt (적용)  
-  * **M**odify/Magnify (수정/확대)  
-  * **P**ut to other uses (다른 용도로)  
-  * **E**liminate/Minimize (제거/축소)  
-  * **R**everse/Rearrange (뒤집기/재배열)  
+* SCAMPER : 아이디어를 자극하는 질문의 목록으로 체크리스트법의 대표적인 기법  
+  - **S**ubstitute (대체)   
+  - **C**ombine (조합)   
+  - **A**dapt (적용)  
+  - **M**odify/Magnify (수정/확대)  
+  - **P**ut to other uses (다른 용도로)  
+  - **E**liminate/Minimize (제거/축소)  
+  - **R**everse/Rearrange (뒤집기/재배열)  
 
-2. Random word/Random picture : 주제와 관련없는 단어나 그림을 주고 해당 word/pricture의 특성을 brainstorming 한 후 이 특성과 주제를 강제로 연관시키는 방식. 창의적인 아이디어를 만들어내는 데 도움이 됨  
+* Random word/Random picture : 주제와 관련없는 단어나 그림을 주고 해당 word/pricture의 특성을 brainstorming 한 후 이 특성과 주제를 강제로 연관시키는 방식. 창의적인 아이디어를 만들어내는 데 도움이 됨  
 
-  <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_11.png"/>  
+<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_11.png"/>  
 
-3. 오감기법 : 오감을 자극하는 매게체를 이용해 Brainstorming.  
+* 오감기법 : 오감을 자극하는 매게체를 이용해 Brainstorming.  
 
-4. Role Play : 무작위로 직업을 선택하고, 그 직업의 관점에서 해결하고자하는 과제를 보며 아이디어 도출  
+* Role Play : 무작위로 직업을 선택하고, 그 직업의 관점에서 해결하고자하는 과제를 보며 아이디어 도출  
 
 **유추발상법** : 주제의 본질과 닮은 사물의 특성을 힌트로 발상  
 
-1. MN법, TRIZ  
+* MN법
+* TRIZ  
 
 
 ####3. Idea 체계화####
@@ -188,32 +189,33 @@ Facilitation은 **Opening - Idea gathering - Idea 체계화 - Decision making - 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_06.png"/>  
 
 **Idea 보완**  
-1. 6 Thinking Hats  
-  * 흰색 : Information. 객관적, 중립적 사고. 사실, 정보제시 및 질문  
-  * 빨강 : Emotion & Intuition. 감정과 느낌. 직관과 예감.  
-  * 노랑 : Optimistic Thinking. 장점찾기, 실현 가능성 제시  
-  * 검정 : Critical Thinking. 잠재위험과 실패요인 제시, 신중한 검토와 비판  
-  * 녹색 : Creative Thinking. 새로운 아이디어 제시, 약점을 보완할 대안 제시  
-  * 파랑 : Thinking on Thinking. Facilitaotr의 모자. 요약과 결론  
-  * **tip :** 부정적 사고 후에는 긍정적인 사고가 힘들다. 따라서 yellow를 먼저 쓰는게 좋을 수 있음. 본인이 낸 아이디어에는 black을 써서 의도적으로 부정적인 면을 볼 수 있도록 하기.  
 
-  <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_12.png"/>  
+* 6 Thinking Hats  
+  - 흰색 : Information. 객관적, 중립적 사고. 사실, 정보제시 및 질문  
+  - 빨강 : Emotion & Intuition. 감정과 느낌. 직관과 예감.  
+  - 노랑 : Optimistic Thinking. 장점찾기, 실현 가능성 제시  
+  - 검정 : Critical Thinking. 잠재위험과 실패요인 제시, 신중한 검토와 비판  
+  - 녹색 : Creative Thinking. 새로운 아이디어 제시, 약점을 보완할 대안 제시  
+  - 파랑 : Thinking on Thinking. Facilitaotr의 모자. 요약과 결론  
+  - **tip :** 부정적 사고 후에는 긍정적인 사고가 힘들다. 따라서 yellow를 먼저 쓰는게 좋을 수 있음. 본인이 낸 아이디어에는 black을 써서 의도적으로 부정적인 면을 볼 수 있도록 하기.  
 
-2. Dotmocracy  
-  * 복수의 대안에 대한 참석자들의 지지 정보와 코멘트를 공개적으로 표현하도록하는 방법  
+<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_12.png"/>  
+
+* Dotmocracy  
+  - 복수의 대안에 대한 참석자들의 지지 정보와 코멘트를 공개적으로 표현하도록하는 방법  
 
 **Idea 체계화**  
 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_13.png"/>  
 
 
-  * 아이디어 발산보다 2배 넘게 걸림   
-  * 7개 내외(7+/- 2)가 개인이 검토할 수 있는 아이디어 개수. (총 18개일 땐 6개씩 줄여나가는 방법을 사용)  
-  * 지나친 그룹핑, 잘못된 approach 선택, 중립 위반 등이 나타날 수 있으니 주의하기.  
-  * 방법   
-     - 영역법 : KJ method  
-     - 계열법 : C&E Diagram(fish bone), PERT(간트 차트), Story법  
-  * ToP Workshop Method의 체계화 원리 : Braingstormin - Clustering - Naming 의 순서로 체계화 하기   
+* 아이디어 발산보다 2배 넘게 걸림   
+* 7개 내외(7+/- 2)가 개인이 검토할 수 있는 아이디어 개수. (총 18개일 땐 6개씩 줄여나가는 방법을 사용)  
+* 지나친 그룹핑, 잘못된 approach 선택, 중립 위반 등이 나타날 수 있으니 주의하기.  
+* 방법   
+  - 영역법 : KJ method  
+  - 계열법 : C&E Diagram(fish bone), PERT(간트 차트), Story법  
+* ToP Workshop Method의 체계화 원리 : Braingstormin - Clustering - Naming 의 순서로 체계화 하기   
 
    
 ####4. Decision making####

@@ -23,7 +23,7 @@ Facilitator는 기본적으로 지식과 스킬, 그리고 태도(attitude)를 �
 '참석자들이 하는 저 말이 그들에겐 맞는 말일거다.' 라고 이해해줄 수 있는 마음이요. 그럴려면 경청하기가 기본이 되어야 겠죠? (이 부분에선 비폭력 대화가 필요한 순간이겟네요.)
 한가지 더, Facilitator가 회의에 참여함으로써 실행을 위한 Commitment가 강화되고, 기존의 틀을 벗어난 창의적인 발상이 촉진시킴으로써 집단 사고에 빠지는 것을 방지할 수 있습니다. 참석자들이 객관적 사고를 할 수 있게 도와주지요.  
 
-Facilitator의 주요 역할을 키워드로 뽑아보면, **상황진단, 프로세스 설계, 가이드, 동기부여, 질문, 투시(직관), 중재(감정은 빼고 객관적인 fact만), Process director** 의 모든 역할을 수행한다고 볼 수 있다요.  
+Facilitator의 주요 역할을 키워드로 뽑아보면, **상황진단, 프로세스 설계, 가이드, 동기부여, 질문, 투시(직관), 중재(감정은 빼고 객관적인 fact만), Process director** 의 모든 역할을 수행한다고 볼 수 있다.  
 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_01.png"/>  
 
@@ -137,6 +137,7 @@ Facilitation은 **Opening - Idea gathering - Idea 체계화 - Decision making - 
 **Idea gathering 기법**  
 
 **자유연상법** : 주제에 대해 생각나는대로 자유롭게 발상하며 아이디어를 생각해내는 방법   
+
 1. Brainstorming  
   * 참석자들의 모든 발언을 빠르게 기록하기  
   *  아이디어가 막힐 땐 다양한 기법으로 새로운 접근 유도 (Round robin - Rolling paper - Stop & Go - Random word)  
@@ -144,8 +145,8 @@ Facilitation은 **Opening - Idea gathering - Idea 체계화 - Decision making - 
 
 2. Brain writing
   * Brainstorming과 비슷하지만, 말로 하는 것이 아닌 글로 적는 방법  
-  *  침묵의 집단 발상법으로 빅마우스로부터 벗어날 수 있음  
-  *  창의적인/효과적인/즉시 실행 가능한 아이디어 중 무엇을 고를지를 시작 전에 명확히 해줘야 함  
+  * 침묵의 집단 발상법으로 빅마우스로부터 벗어날 수 있음  
+  * 창의적인/효과적인/즉시 실행 가능한 아이디어 중 무엇을 고를지를 시작 전에 명확히 해줘야 함  
 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_09.png"/>  
 
@@ -171,7 +172,7 @@ Facilitation은 **Opening - Idea gathering - Idea 체계화 - Decision making - 
 
 2. Random word/Random picture : 주제와 관련없는 단어나 그림을 주고 해당 word/pricture의 특성을 brainstorming 한 후 이 특성과 주제를 강제로 연관시키는 방식. 창의적인 아이디어를 만들어내는 데 도움이 됨  
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_11.png"/>  
+  <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_11.png"/>  
 
 3. 오감기법 : 오감을 자극하는 매게체를 이용해 Brainstorming.  
 
@@ -196,7 +197,7 @@ Facilitation은 **Opening - Idea gathering - Idea 체계화 - Decision making - 
   * 파랑 : Thinking on Thinking. Facilitaotr의 모자. 요약과 결론  
   * **tip :** 부정적 사고 후에는 긍정적인 사고가 힘들다. 따라서 yellow를 먼저 쓰는게 좋을 수 있음. 본인이 낸 아이디어에는 black을 써서 의도적으로 부정적인 면을 볼 수 있도록 하기.  
 
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_12.png"/>  
+  <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_12.png"/>  
 
 2. Dotmocracy  
   * 복수의 대안에 대한 참석자들의 지지 정보와 코멘트를 공개적으로 표현하도록하는 방법  
@@ -305,7 +306,7 @@ DiSC는 인간의 행동유형(성격)을 구성하는 핵심 4개요소인 Domi
 이번에 들었던 강의 자료는 따로 없지만 2011년도에 Agile korea 2011에서 인피플 채홍미 대표님께서 발표하셨던 자료가 있어 공유해봅니다.  
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/9SauOCfzDBAian" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/agilekorea/agile-facilitation" title="Agile Facilitation" target="_blank">Agile Facilitation</a> </strong> from <strong><a href="//www.slideshare.net/agilekorea" target="_blank">agilekorea</a></strong> </div>
-  
+
   
   
 ##교육이 듣고싶다면..##
@@ -314,7 +315,7 @@ DiSC는 인간의 행동유형(성격)을 구성하는 핵심 4개요소인 Domi
 website : http://www.inpeople.co.kr/training/ntraining01.php 의 교육과정 참고  
   
   
-  
+
 ##퍼실리테이터 인증##
 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_24.png"/>  

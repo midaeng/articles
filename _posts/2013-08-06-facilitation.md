@@ -38,7 +38,7 @@ Facilitator의 주요 역할을 키워드로 뽑아보면, **상황진단, 프�
 Facilitation 의 활용 사례로는 GE workout, Appreciative Inquiry, SFC 전략 워크숍, OST 등이 있으며 이게 뭔지는 차례대로 한번 봅시다.  
 
   
-####GE workout####
+###GE workout###
  
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_02.png"/>  
  
@@ -54,7 +54,7 @@ Facilitation 의 활용 사례로는 GE workout, Appreciative Inquiry, SFC 전�
   
 
   
-####Appreciative Inquiry####
+###Appreciative Inquiry###
 
 * 성공경험 기반으로 전략을 수립하는 방법 (Work-out과 정반대)  
   - Appreciative : 과거/현재의 강점, 성공, 자산, 잠재력을 인식. 시스템에 건강과 활력을 주는 것이 무엇인지 파악  
@@ -70,14 +70,14 @@ Facilitation 의 활용 사례로는 GE workout, Appreciative Inquiry, SFC 전�
    
 
   
-####SFC 전략 워크숍####
+###SFC 전략 워크숍###
 
 * 전략을 실행할 협업 실무진과 경영진이 함께 참여.  
 * 구성원들이 가진 정보와 경험을 통합하고 토론과 창의적 발상을 통해 실행력 높은 전략 도출하는 Scan-Focus-Create 단계를 통한 참여형 전략 기획 프로그램  
   
 
   
-####OST (Open Space Technology)####
+###OST (Open Space Technology)###
 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_03.png"/>  
 
@@ -95,7 +95,7 @@ Facilitation은 **Opening - Idea gathering - Idea 체계화 - Decision making - 
 각 단계 별로 사용할 수 있는 Tools에 대해 간단히 설명해보도록 하지요.  
   
   
-####1. Opening####
+###1. Opening###
 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_04.png"/>  
 
@@ -126,7 +126,7 @@ Facilitation은 **Opening - Idea gathering - Idea 체계화 - Decision making - 
   
 
   
-####2. Idea gathering####
+###2. Idea gathering###
 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_05.png"/>  
 
@@ -184,7 +184,7 @@ Facilitation은 **Opening - Idea gathering - Idea 체계화 - Decision making - 
 * TRIZ  
 
 
-####3. Idea 체계화####
+###3. Idea 체계화###
 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_06.png"/>  
 
@@ -218,7 +218,7 @@ Facilitation은 **Opening - Idea gathering - Idea 체계화 - Decision making - 
 * ToP Workshop Method의 체계화 원리 : Braingstormin - Clustering - Naming 의 순서로 체계화 하기   
 
    
-####4. Decision making####
+###4. Decision making###
 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_07.png"/>  
 
@@ -253,7 +253,7 @@ Facilitation은 **Opening - Idea gathering - Idea 체계화 - Decision making - 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_17.png"/>  
 
 
-####5. Closing####
+###5. Closing###
 
 A. 회의의 결과 확인  
 B. Opening에서 확인했던 목표와 기대사항을 리뷰  
@@ -279,7 +279,7 @@ D. 참가자 소감 청취 및 마무리
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_20.png"/>  
 
 
-####+ Planning, Attention####
+###+ Planning, Attention###
 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_21.png"/>  
 
@@ -287,7 +287,7 @@ D. 참가자 소감 청취 및 마무리
 
 ##과연 이게 끝일까?##
 
-####DiSC####
+###DiSC###
 DiSC 검사를 통하여 조직에서의 내 성향과 서로 다른 성향끼리 어떤 점이 고맙고, 이런점은 보완했으면 좋겠는지를 알아봤습니다. (참고로 저는 생긴대로 사는 심플한 사람ㅋㅋㅋㅋ)  
 
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/facilitation_22.png"/>  
@@ -296,7 +296,7 @@ DiSC 검사를 통하여 조직에서의 내 성향과 서로 다른 성향끼�
 DiSC는 인간의 행동유형(성격)을 구성하는 핵심 4개요소인 Dominance(주도형), Influence(사교형), Steadiness(안정형), Conscientiousness(신중형)의 약자임.  
 
 
-####까다로운 참석자 대처법####
+###까다로운 참석자 대처법###
 회의 및 Workshop을 진행하면서 가장 어려운 점 중 하나가 까다로운 참석자 대처법이 아닐까 합니다.  
 각 특징 별 대처 방안을 짧게 요약해봤습니다.   
  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "스크럼 - sprint 진행 중 나오는 인터럽트 처리하기"
+title: "[SCRUM] Interrupt handling while we do sprint : Sprint 진행 중 나오는 interrupt 처리하기"
 ---
 
 스크럼에서는 planning할 때 붙인 백로그 이외에는 처리하지 않도록 가이드 하고 있다.  

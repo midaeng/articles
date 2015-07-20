@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "스크럼 - 장기 프로젝트도 스크럼처럼 진행하기"
+title: "[SCRUM] To run a long-term project similar to a scrum : 장기 프로젝트도 스크럼처럼 진행하기"
 ---
 
 Scrum은 Sprint 단위로 수행하기 때문에 2주 만큼의 진행 사항만 보인다.  

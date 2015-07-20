@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "스크럼 - 팀에 집중하기"
+title: "[SCRUM] Focus on Team : 팀에 집중하기"
 ---
 
 **팀원은, 문제를 말할 수 있는 용기. 도움을 받는 능력을 갖추기.**  

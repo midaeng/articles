@@ -28,12 +28,11 @@ BM은 B2B에서는 쓸 수 없는 프레임. 이해관계자들이 얽혀있기 
 - 헷갈리는 경우가 많지만 customer는 통신사업자 혹은 유통업자가 됨.  
 - user는 실제 사용자이므로 사용성 측면을 봐야하고, customer는 돈을 지불하는 사람이라 지불할 가치를 줘야 한다. BM는 customer 관점(decision maker)으로 봐야 함.  
 - ex) 아들이 휴대폰을 사려고할 때 통신사 입장에서 customer는 부모. 그렇다면 부모가 혹하는 기능을 넣어야 한다. 그런데 통신사 시스템이 그렇게 돼있나? 통신요금은 아빠가 내는데, 요금 고지서를 아빠가 받아볼 수 없음. 통합고지서도 못받음. 개인정보보호라는 명목으로.  
-
 - 즉, 돈 관점에서 decision maker가 누군지를 정확히 해야한다.  
 
 
 **same customer, different context (similar to a user scenario)**  
-- VP는 사용성 툴이다. BM은 전적으로 수익성 툴이다보니 사용성 관점이 빠져서 추가된 내용이 VP.  
+- VP는 사용성 툴이. BM은 전적으로 수익성 툴이다보니 사용성 관점이 빠져서 추가된 내용이 VP.  
 
 
 **same customer, different solutions**  

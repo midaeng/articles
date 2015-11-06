@@ -10,7 +10,7 @@ title: "Agile Requirement & Project Management"
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/Jaff_Patton_-AgileRequirementANDProjectManagement.jpg"/>  
 
 [이미지 원본](http://www.flickr.com/photos/micheleidesmith/9527942787/) 출처 : http://www.flickr.com/photos/micheleidesmith/9527942787/   
-[Agile2013 발표 자료](https://submissions.agilealliance.org/system/attachments/attachments/000/000/093/original/Patton_Agile_Requirements___Product_Mgmt.pdf?1385085680)
+[Agile2013 발표 자료](https://submissions.agilealliance.org/system/attachments/attachments/000/000/093/original/Patton_Agile_Requirements___Product_Mgmt.pdf?1385085680)  
 [관련 기타 링크](http://blogs.agilefaqs.com/2013/01/17/passionate-productowner-cspo-workshops-by-jeff-patton-at-agile-india-2013-conference/)
 
 

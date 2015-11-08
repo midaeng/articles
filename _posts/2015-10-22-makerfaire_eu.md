@@ -27,8 +27,6 @@ HNF라고 하는 Heinz Nixdorf MuseumsForum에도 들러서 애니악과 조우�
 
 
 내용은 아직 정리 중이라 업로드하려면 시간이 조금 걸릴 것 같아요. 조금만 기다려주세요 :)   
-XOXO-  
-<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/EU-Berlinbear.jpg"/>  
-
+XOXO-   
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "오프라인 Kanban/Scrum 보드를 운영하는 이유"
+title: "[SCRUM] 오프라인 Kanban/Scrum 보드를 운영하는 이유"
 ---
 
 현재의 팀으로 오기 전까지 있던 조직에서 Scrum, Kanban을 대대적으로 진행하고 있어요.   

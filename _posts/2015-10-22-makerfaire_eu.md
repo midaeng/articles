@@ -13,8 +13,7 @@ title: "메이커페어 끝판왕, 유럽 메이커페어 다녀온 이야기 (M
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/EU-MF2015-Berlin-1.jpg"/>
 (까치발을 들면 꼭 다리를 늘린 것 처럼 나오는군요. 그냥 발을 든거예요....)  
 
-독일에서 2주간 머물면서 **Maker Faire Berlin 2015** 외에도 **Vintage Computer Festival Berlin**에도 가고,  
-(여기 정말 geek이 많았어요. 호호백발 할매할배 개발자들도 만나고 왔답니다!)  
+독일에서 2주간 머물면서 **Maker Faire Berlin 2015** 외에도 **Vintage Computer Festival Berlin**에도 가고,(여기 정말 geek이 많았어요. 호호백발 할매할배 개발자들도 만나고 왔답니다!)  
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/EU-BCFB-2015.jpg"/>  
 
 HNF라고 하는 **Heinz Nixdorf MuseumsForum**에도 들러서 애니악과 조우하고,  
@@ -28,9 +27,8 @@ HNF라고 하는 **Heinz Nixdorf MuseumsForum**에도 들러서 애니악과 조
 그리고 독일의 다른 도시 이곳 저곳도 누비다가 마지막 경유지인 로마 메이커페어를 둘러보며 경험치를 +2정도 랩업하고 왔어요 :)  
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/EU-MF2015-Rome-1.jpg"/>  
 
-
 내용은 아직 정리 중이라 업로드하려면 시간이 조금 걸릴 것 같아요. 조금만 기다려주세요 :)   
-저는 [Facebook](https://www.facebook.com/dooly.bang)에서도 만나실 수 있습니다. 
+저는 [Facebook](https://www.facebook.com/dooly.bang)에서도 만나실 수 있.  
 XOXO-   
 
 

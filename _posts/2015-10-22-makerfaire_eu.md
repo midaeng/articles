@@ -28,7 +28,7 @@ HNF라고 하는 **Heinz Nixdorf MuseumsForum**에도 들러서 애니악과 조
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/EU-MF2015-Rome-1.jpg"/>  
 
 내용은 아직 정리 중이라 업로드하려면 시간이 조금 걸릴 것 같아요. 조금만 기다려주세요 :)   
-저는 [Facebook](https://www.facebook.com/dooly.bang)에서도 만나실 수 있어요.  
+저는 [Facebook](https://www.facebook.com/dooly.bang)에서도 만날 수 있어요.  
 XOXO-   
 
 

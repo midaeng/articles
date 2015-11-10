@@ -1,6 +1,6 @@
 <!-- meta information -->
 <meta charset="utf-8">
-<meta name="description" {% if page.title == "Home" %}
+<meta name="description" {% if page.title == "BANGLAB" %}
       content="{{ site.data.brume.description }}" {% else %}
       content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" {% endif %}>
 <meta name="author" content="{{ site.data.brume.author }}">
@@ -9,7 +9,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
 <!-- title -->
-<title>{{ page.title }} &middot; {{ site.data.brume.name }}</title>
+<!-- <title>{{ page.title }} &middot; {{ site.data.brume.name }}</title> -->
+<title>{{ page.title }} &middot; Article</title>
 
 <!-- icons -->
 <link rel="shortcut icon" href="{{site.baseurl}}/images/favicon.png" />

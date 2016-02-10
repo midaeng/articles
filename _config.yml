@@ -4,5 +4,7 @@ permalink: /:title
 url: //banglab.com
 baseurl: /articles
 
+analytics: 'UA-54298325-1'
+
 redcarpet:
   extensions: [strikethrough, tables]

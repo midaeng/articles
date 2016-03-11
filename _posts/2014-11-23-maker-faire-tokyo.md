@@ -3,7 +3,7 @@ layout: post
 title: "도쿄 메이커페어 방문기 (1) - Process | Visiting Maker Faire Tokyo 2014!!"
 ---
 
-![Maker Faire Tokyo 2014](/images/blog/MF14-Tokyo_Badge_v3_300.png)
+<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/MF14-Tokyo_Badge_v3_300.png"/> 
 
 ## 메이커 페어 초보자. 일본에 가다. ##
 <img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/mft_in_front.jpg"/> 

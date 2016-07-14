@@ -23,9 +23,9 @@ title: "하루 안에 원서 한 권 읽기"
   
 이 방법으로 그날 한시간만에 3 챕터를 뗐어요.   
 
-아래 사진을 페이스북에 올렸더니 김창준님께서 비슷한데 검증된 방법으로 [SQ3R](http://www.ucc.vt.edu/academic_support_students/study_skills_information/sq3r_reading-study_system/index.html) 있다고 알려주시더라구요.  
-![book](/images/blog/ASR_ch13.png)  
+아래 사진을 페이스북에 올렸더니 김창준님께서 비슷한데 검증된 방법으로 [SQ3R](http://www.ucc.vt.edu/academic_support_students/study_skills_information/sq3r_reading-study_system/index.html) 있다고 알려주시더라구요.   
 
+<img class="alignnone size-full wp-image-58" src="https://raw.githubusercontent.com/midaeng/articles/gh-pages/images/blog/ASR_ch13.png"/>   
 
 역시 공부는 peer로 하는게 최고인 듯.  
   
